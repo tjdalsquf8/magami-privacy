@@ -1,0 +1,1 @@
+# magami-privacy
